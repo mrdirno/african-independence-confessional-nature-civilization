@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-confessional-nature-civilization",
+  "title": "The Sankofa Stone",
+  "tagline": "A historian's return to his ancestral village uncovers a truth written not in books, but in the living land.",
+  "target_words": 70000,
+  "actual_words": 73621,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Memory of the Land",
+    "Post-Colonial Identity and Disillusionment",
+    "Reconciliation with Ancestral Wisdom",
+    "Nature as Archive and Active Agent"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Angry Voice of the Water",
+      "words": 3067
+    },
+    {
+      "ch": 2,
+      "title": "The Museum of Arrested Time",
+      "words": 3067
+    },
+    {
+      "ch": 3,
+      "title": "The First Line of the Confession",
+      "words": 3067
+    },
+    {
+      "ch": 4,
+      "title": "The Conversation with the Garden",
+      "words": 3067
+    },
+    {
+      "ch": 5,
+      "title": "Whispers in the Laterite",
+      "words": 3067
+    },
+    {
+      "ch": 6,
+      "title": "The Ghost of the Pipeline",
+      "words": 3067
+    },
+    {
+      "ch": 7,
+      "title": "The Council of the Old Men",
+      "words": 3067
+    },
+    {
+      "ch": 8,
+      "title": "The Language of Roots",
+      "words": 3067
+    },
+    {
+      "ch": 9,
+      "title": "A Map Drawn from the Wrong Angle",
+      "words": 3067
+    },
+    {
+      "ch": 10,
+      "title": "The Ritual of Remembering",
+      "words": 3067
+    },
+    {
+      "ch": 11,
+      "title": "The Weight of a Father's Silence",
+      "words": 3067
+    },
+    {
+      "ch": 12,
+      "title": "The Bridge of Our Own Bones",
+      "words": 3067
+    },
+    {
+      "ch": 13,
+      "title": "The Archive in the Forest",
+      "words": 3067
+    },
+    {
+      "ch": 14,
+      "title": "The Engineer and the Earthpriest",
+      "words": 3067
+    },
+    {
+      "ch": 15,
+      "title": "When the Stones Grow Warm",
+      "words": 3067
+    },
+    {
+      "ch": 16,
+      "title": "The Unraveling of Words",
+      "words": 3067
+    },
+    {
+      "ch": 17,
+      "title": "The Offering to the Stream",
+      "words": 3067
+    },
+    {
+      "ch": 18,
+      "title": "The Dream of the Odum Tree",
+      "words": 3067
+    },
+    {
+      "ch": 19,
+      "title": "The Children Who Laugh Through Rain",
+      "words": 3067
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Illustrated Map",
+      "words": 3067
+    },
+    {
+      "ch": 21,
+      "title": "The Confessional of Laterite",
+      "words": 3067
+    },
+    {
+      "ch": 22,
+      "title": "What the Land Wanted to Become",
+      "words": 3067
+    },
+    {
+      "ch": 23,
+      "title": "The Seed in the Bird's Mouth",
+      "words": 3067
+    },
+    {
+      "ch": 24,
+      "title": "The Scent of the World After Rain",
+      "words": 3067
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern character must interpret a warning or message from the natural world (a specific tree, river, rock formation) that contradicts official maps or data.",
+      "Create a journal entry from the perspective of Kwame's father, Nana Kofi Mensah, on the night of Independence, detailing not public hope, but a private, ecological foreboding.",
+      "Imagine a confrontation between Agyei and a foreign mining or agricultural surveyor. Write the dialogue where Agyei 'translates' what the land is saying about the proposed project.",
+      "Draft a myth or folktale, set in Aduana's past, that explains the origin of the Sankofa stone and its purpose as a living record."
+    ],
+    "technical": [
+      "Build an interactive map of Aduana and its surroundings where geographic features (streams, trees, stones) reveal layers of narrative—historical, personal, ecological—when clicked, visualizing the land as a palimpsest.",
+      "Design a 'Whisper Engine' text generator that takes a seed phrase (e.g., 'the cage was made of our own bones') and generates prose in the novel's lyrical, nature-imbued style, trained on its descriptive passages."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Robin Wall Kimmerer",
+      "Ayi Kwei Armah",
+      "Annie Dillard"
+    ]
+  },
+  "cover_prompt": "A middle-aged African historian, his face etched with both academic weariness and dawning reverence, kneels in red earth, his hands gently cradling a luminous, carved stone that pulses with a soft, bioluminescent light, [Detailed Scene & Context: set at the golden hour in a West African village clearing where ancient, giant baobab trees with roots like arteries merge seamlessly with faint, spectral impressions of colonial-era stone foundations, and vibrant native flora encroaches upon the geometric cracks, symbolizing nature reclaiming its archive], [Artistic Style & Medium: in the atmospheric, magical realist style of Ben Enwonwu and Ibrahim El-Salahi, blending symbolic figuration with organic patterns, rendered in textured oil paints and ink wash on canvas], [Composition & Camera: book cover framing, a centered and intimate composition with a low-angle view that emphasizes the connection between the man, the stone, and the towering, wise baobab trees, creating a sense of grounded awe], [Lighting & Color Palette: dramatic chiaroscuro lighting from the setting sun, casting long shadows and highlighting the stone's glow, with a rich, earthy color palette of burnt sienna, deep umbers, forest greens, and golden ochre, contrasted with the ethereal cool blues and violets of the ancestral light], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
